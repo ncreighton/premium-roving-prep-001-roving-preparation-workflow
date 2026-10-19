@@ -1,0 +1,2 @@
+# premium-roving-prep-001-roving-preparation-workflow
+Tired of losing track of which fleece needs washing, which roving is ready to spin, and which dye batch turned out perfect? The Roving Preparation Workflow turns your fiber stash into a second brain.  This Notion template transforms chaotic fiber preparation into a repeatable, traceable system. Unlike generic project trackers, it’s built specifical
